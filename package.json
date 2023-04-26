@@ -5,12 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "CI= npm run build",
     "start": "node index"
   },
-  "engines" : { 
-    "node" : ">=8.0.0" 
-  }
   "author":"Hemanth",
   "license": "ISC",
   "dependencies": {
